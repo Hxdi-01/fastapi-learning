@@ -1,0 +1,29 @@
+[
+  {
+    "Car Name": "Bugatti chiron",
+    "Car Fuel Type": [
+      "Petrol",
+      " Electric"
+    ],
+    "Car Stock": {
+      "US": 55,
+      "UK": 40,
+      "UAE": 67
+    },
+    "Car Speed": 500
+  },
+  {
+    "Car Name": "La Ferrari",
+    "Car Fuel Type": [
+      "Petrol",
+      " Diesel"
+    ],
+    "Car Stock": {
+      "US": 89,
+      "UK": 56,
+      "Japan": 47,
+      "UAE": 94
+    },
+    "Car Speed": 500
+  }
+]

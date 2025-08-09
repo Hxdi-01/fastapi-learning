@@ -1,0 +1,22 @@
+{
+    "Karachi": {
+        "Temperature": 31.5,
+        "Windspeed": 18.7,
+        "Time": "2025-07-06T07:00"
+    },
+    "Tokyo": {
+        "Temperature": 31.9,
+        "Windspeed": 5.7,
+        "Time": "2025-07-06T07:00"
+    },
+    "London": {
+        "Temperature": 17.9,
+        "Windspeed": 9.9,
+        "Time": "2025-07-06T07:00"
+    },
+    "New York": {
+        "Temperature": 22.3,
+        "Windspeed": 15.9,
+        "Time": "2025-07-06T07:00"
+    }
+}
